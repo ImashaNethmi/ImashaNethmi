@@ -1,6 +1,7 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/1599d7107019725.5f9d3c7bae636.gif)
 <h1 align="center">Hi 👋, I'm Imasha Nethmi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" height="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
 
