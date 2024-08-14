@@ -12,6 +12,8 @@
 - 📫 How to reach me **imashanethmi2022@gmail.com**
   
 
+<div class="row">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imashanethmi&show_icons=true&locale=en&layout=compact" alt="imashanethmi" /></p>
 
 
 <hr>
